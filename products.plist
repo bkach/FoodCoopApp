@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Apples (Fuji)</string>
+		<string>1</string>
+		<string>0</string>
+		<string>These bright fuji apples make a great mid-afternoon snack</string>
+		<string>fuji.png</string>
+		<string>$11.95/lb</string>
+		<string>Washington State</string>
+		<string>Fuji</string>
+	</array>
+	<array>
+		<string>Apples (Granny Smith)</string>
+		<string>12</string>
+		<string>0</string>
+		<string>These west coast apples go well in a salad</string>
+		<string>grannySmith.png</string>
+		<string>$10.95/lb</string>
+		<string>Pacific Northwest</string>
+		<string>Granny Smith</string>
+	</array>
+	<array>
+		<string>Avocados</string>
+		<string>20</string>
+		<string>0</string>
+		<string>Enhance your guacamole with these fresh avocados</string>
+		<string>avocado.png</string>
+		<string>$1.50 each</string>
+		<string>Mexico</string>
+		<string>Hass</string>
+	</array>
+	<array>
+		<string>Bananas</string>
+		<string>0</string>
+		<string>4</string>
+		<string>Your pet monkey will appreciate the quality of these bananas</string>
+		<string>banana.png</string>
+		<string>$2.75/lb</string>
+		<string>Ecuador/Peru</string>
+		<string>Fair Trade</string>
+	</array>
+	<array>
+		<string>Blueberries</string>
+		<string>0</string>
+		<string>2</string>
+		<string>Blueberries are an excellent snack, you can even have them on the go!</string>
+		<string>blueberries.png</string>
+		<string>$4.25/lb</string>
+		<string>Florida/Georgia</string>
+		<string>Southern Highbush</string>
+	</array>
+	<array>
+		<string>Broccoli</string>
+		<string>0</string>
+		<string>1</string>
+		<string>Broccoli is a healthy addition to your next meal</string>
+		<string>broccoli1.png</string>
+		<string>$2.25/lb</string>
+		<string>California</string>
+		<string>Sprouting</string>
+	</array>
+	<array>
+		<string>Grapefruit</string>
+		<string>11</string>
+		<string>0</string>
+		<string>Perfect as a snack on a hot summer day</string>
+		<string>grapefruit.png</string>
+		<string>$1.15/lb</string>
+		<string>Vero Beach, FL</string>
+		<string>Ruby Red</string>
+	</array>
+	<array>
+		<string>Kale (Green Curly)</string>
+		<string>0</string>
+		<string>5</string>
+		<string>Use kale to form the basis of your next salad!</string>
+		<string>greenCurly.png</string>
+		<string>$1.95/lb</string>
+		<string>Punta Gorda, FL</string>
+		<string>Green Curly</string>
+	</array>
+	<array>
+		<string>Kale (Lacinato)</string>
+		<string>0</string>
+		<string>5</string>
+		<string>Slightly more acidic than the green curly kale, this kale pairs well with carrots</string>
+		<string>lacinato.png</string>
+		<string>$2.15/lb</string>
+		<string>Punta Gorda, FL</string>
+		<string>Lacinato</string>
+	</array>
+	<array>
+		<string>Lemons</string>
+		<string>17</string>
+		<string>0</string>
+		<string>Spice up your salad with a sprinkle of lemon, or make lemonade</string>
+		<string>lemon.png</string>
+		<string>$1.00/lb</string>
+		<string>California</string>
+		<string>Avalon</string>
+	</array>
+	<array>
+		<string>Mangos</string>
+		<string>0</string>
+		<string>2</string>
+		<string>Cut these mangoes up and take them to work as a  healthy snack</string>
+		<string>mango.png</string>
+		<string>$3.95/lb</string>
+		<string>Mexico</string>
+		<string>Ataulfo</string>
+	</array>
+	<array>
+		<string>Onions</string>
+		<string>0</string>
+		<string>6</string>
+		<string>Large Spanish-style onions are great for stews</string>
+		<string>onion.png</string>
+		<string>$1.50/lb</string>
+		<string>Mexico</string>
+		<string>Yellow</string>
+	</array>
+	<array>
+		<string>Oranges</string>
+		<string>15</string>
+		<string>0</string>
+		<string>Not as good as Florida oranges, but close enough</string>
+		<string>orange.png</string>
+		<string>$1.65/lb</string>
+		<string>California</string>
+		<string>Valencia</string>
+	</array>
+	<array>
+		<string>Peaches</string>
+		<string>6</string>
+		<string>0</string>
+		<string>Smooth and delicious, pairs well with red wine</string>
+		<string>peach.png</string>
+		<string>$2.10/lb</string>
+		<string>California</string>
+		<string>Yellow</string>
+	</array>
+	<array>
+		<string>Pears</string>
+		<string>10</string>
+		<string>0</string>
+		<string>Great for your next fruit salad!</string>
+		<string>pear.png</string>
+		<string>$2.55/lb</string>
+		<string>Rio Negro, Argentina</string>
+		<string>Alexander Lucas</string>
+	</array>
+	<array>
+		<string>Potatoes</string>
+		<string>0</string>
+		<string>2</string>
+		<string>Perfect for mashing, baking, or frying</string>
+		<string>potato.png</string>
+		<string>$1.15/lb</string>
+		<string>California</string>
+		<string>Sweet (Garnet)</string>
+	</array>
+	<array>
+		<string>Strawberries</string>
+		<string>24</string>
+		<string>0</string>
+		<string>Dip them in melted chocolate for a tasty dessert</string>
+		<string>strawberries.png</string>
+		<string>$2.95/lb</string>
+		<string>California</string>
+		<string>Albion</string>
+	</array>
+	<array>
+		<string>Tangerines</string>
+		<string>18</string>
+		<string>0</string>
+		<string>The often neglected but still delicious cousin of oranges</string>
+		<string>tangerine.png</string>
+		<string>$2.75/lb</string>
+		<string>California</string>
+		<string>Gold Nugget</string>
+	</array>
+	<array>
+		<string>Tomatoes</string>
+		<string>0</string>
+		<string>4</string>
+		<string>Add these juicy tomatoes to your next omelete</string>
+		<string>tomato.png</string>
+		<string>$2.35/lb</string>
+		<string>Punta Gorda, FL</string>
+		<string>Rainbow Cherry</string>
+	</array>
+</array>
+</plist>
